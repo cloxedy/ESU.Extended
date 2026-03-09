@@ -11,9 +11,8 @@ This is an **optional extension** for the "Emergency Services of Ukraine" mod. I
 ## 🇬🇧 English Description
 
 ### 📦 What's inside?
-This add-on includes extended assets, such as:
-* New **K9 (Tracking Dogs)** service icons.
-* Additional visual components for the ESU mod.
+This add-on provides extended assets that cannot be added via Steam Workshop:
+* New dog icon — the legendary Patron.
 
 > [!IMPORTANT]  
 > This content requires **manual installation**. It is not mandatory, but it significantly improves the visual experience.
@@ -36,7 +35,7 @@ This add-on includes extended assets, such as:
 
 ### 📦 Що всередині?
 Це доповнення містить розширені асети, які неможливо додати через Steam Workshop:
-* Нові іконки **службових собак (K9)**.
+* Нова іконка собаки — легендарний пес Патрон.
 
 > [!IMPORTANT]  
 > Цей контент потребує **ручного встановлення**. Він не є обов'язковим для роботи моду, але значно покращує візуальну частину.
@@ -45,7 +44,7 @@ This add-on includes extended assets, such as:
 
 1. **Завантажте файли** Натисніть зелену кнопку **Code** вгорі сторінки та оберіть **Download ZIP**. Розпакуйте архів.
 
-2. **Знайдіть папку з грою** Зазвичай це: `D:\Steam\steamapps\common\112 Operator`  
+2. **Знайдіть папку з грою** Зазвичай це: `C:\Program Files (x86)\Steam\steamapps\common\112 Operator`  
    *Підказка: ПКМ по грі в Steam > Керування > Переглянути локальні файли.*
 
 3. **Резервна копія (Важливо!)** Перейдіть у папку `112 Operator_Data`. Створіть там папку `Backup` і скопіюйте туди оригінальний файл `sharedassets2.assets`.
@@ -56,7 +55,5 @@ This add-on includes extended assets, such as:
 ---
 
 ## 📞 Credits & Support
-* **Mod Author:** [Твоё Имя/Никнейм]
-* **Steam Workshop Page:** [Ссылка на основной мод в Стиме]
-
-*Enjoy the game with enhanced Ukrainian emergency services!*
+* **Steam Workshop Page:** [Emergency Services of Ukraine](https://steamcommunity.com/sharedfiles/filedetails/?id=3421962474)
+* **Technical Support:** [Проблеми модифікації // Problems of modification](https://steamcommunity.com/workshop/filedetails/discussion/3421962474/612037567209089449/)
