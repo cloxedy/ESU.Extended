@@ -4,6 +4,15 @@
 [![Game](https://img.shields.io/badge/Game-112%20Operator-orange.svg)](https://store.steampowered.com/app/793460/112_Operator/)
 ![Installation](https://img.shields.io/badge/Install-Manual-red.svg)
 
+> [!IMPORTANT]
+> **Legal Disclaimer / Відмова від відповідальності**
+>
+> **EN:** This is a non-commercial, fan-made modification. This project is not affiliated with, authorized, or endorsed by Jutsu Games or Games Operators. All game assets and trademarks belong to their respective owners. Use at your own risk; the author is not responsible for any game instability or data loss.
+>
+> **UA:** Це некомерційна фанатська модифікація. Цей проєкт не пов'язаний, не санкціонований та не підтримується Jutsu Games або Games Operators. Усі ігрові асети та торгові марки належать їхнім відповідним власникам. Встановлюйте на свій страх і ризик; автор не несе відповідальності за будь-яку нестабільність гри або втрату даних.
+
+---
+
 This is an **optional extension** for the "Emergency Services of Ukraine" mod. It adds content that cannot be synchronized via the Steam Workshop due to engine limitations.
 
 ---
