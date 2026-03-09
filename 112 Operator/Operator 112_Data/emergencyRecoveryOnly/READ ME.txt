@@ -1,0 +1,20 @@
+### 🇬🇧 English
+I've included a copy of the original file in the "emergencyRecoveryOnly" folder as a safeguard, 
+but I strongly recommend creating your own backup before proceeding. 
+
+The file in this folder is a clean, original game asset; it is provided only for 
+emergency purposes and is not required for the add-on installation. 
+
+Use this file only if your game breaks, or perform a file verification via Steam.
+
+---
+
+### 🇺🇦 Українська
+Я додав копію оригінального файлу в папку "emergencyRecoveryOnly" на всякий випадок, 
+але наполегливо рекомендую зробити власний бекап перед заміною. 
+
+Файл, що лежить у цій папці — це файл з оригінальної гри; він тут для страховки 
+і не потрібен вам, якщо ви просто хочете встановити доповнення. 
+
+Скористайтеся ним лише якщо ваша гра зламалася, або зробіть перевірку 
+цілісності файлів через Steam.
